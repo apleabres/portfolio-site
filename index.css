@@ -1,0 +1,51 @@
+.nav-item {
+    font-family: intervogue, sans-serif;
+}
+
+.nav-pills {
+    display: flex;
+    align-items: center;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.copyright {
+    font-family: intervogue, sans-serif;
+}
+
+.contact {
+    font-family: intervogue, sans-serif;
+}
+
+.about {
+    font-family: intervogue, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+  
+footer {
+    margin-top: auto;
+}
+
+.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thumbnail {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.page-title {
+    font-family: playfairdisplay, serif;
+}
